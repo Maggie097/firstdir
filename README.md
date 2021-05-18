@@ -1,5 +1,4 @@
-# Mein erstes Git Repositorium
+# MALIS-20.3-WPM_T9_Maxi_Musterfrau
 
-Hier befindet sich mein count-sh-Skript
 ## Autorin: Maggie Hagemann
-## Datum: 2021-04-22
+## Datum: 2021-05-18
